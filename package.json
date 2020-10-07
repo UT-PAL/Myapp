@@ -8,6 +8,7 @@
   },
   "author": "",
   "license": "ISC",
+  "type": "module",
   "dependencies": {
     "bootstrap": "^4.5.2"
   }
